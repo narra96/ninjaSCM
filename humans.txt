@@ -5,7 +5,7 @@
 
     <name> -- keerthireddy narra 131- <twitter>
 
-# THANKS giving party 
+# THANKS to rebase merge auto branch creation learnt
 
     <name>
 
