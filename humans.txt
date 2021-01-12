@@ -3,7 +3,7 @@
 # one change
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> -- keer - <twitter>
 
 # THANKS
 
@@ -11,6 +11,8 @@
 
 # TECHNOLOGY COLOPHON
 #COMPARE WITH REPO
+#staging area
+
 #modification for comparsion
 
 
